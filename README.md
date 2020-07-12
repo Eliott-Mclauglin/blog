@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+##Pitfalls of hardware solutions for tech companies 
 
-You can use the [editor on GitHub](https://github.com/Eliott-Mclauglin/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Relying on physical hardware solutions doesn't mean it's impossible to scale, but it does create further challenges. When talking about servers, one of the most significant drawbacks is cost, which isn't just limited to the purchase or rental price. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+High-quality servers aren't cheap, and there's more than just the initial purchase price to think about. You'll inevitably need to take your servers offline to perform maintenance, which can cause some disruption to your service and customers. 
 
-### Markdown
+There's also the issue of space. Physical servers require a particular environment. The temperature of the room needs to be carefully monitored and maintained. It also needs to be secure from physical threats, such as theft and natural disasters. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Often this kind of room is limited by the space available. What happens when you need to add more servers? More servers equal more electricity and produce even more heat. If you're running physical servers and plan on scaling up, you're going to need much more space, and enough power to maintain your network properly. 
 
-```markdown
-Syntax highlighted code block
+Looking at this example, it's no surprise that [94% of companies use the cloud](https://www.ibm.com/cloud/learn/cloud-computing) in some form.
 
-# Header 1
-## Header 2
-### Header 3
+Benefits of virtual hardware for tech companies 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+When discussing the benefits of cloud/virtual servers for a tech company, there are many advantages to its physical hardware counterpart.
 
-**Bold** and _Italic_ and `Code` text
+When it's time to scale up no matter if it's for a long term or short team, you're able to 'spin up' a new server in little to no time at all. This means you don't need to purchase or loan a new server, physically install it, or perform ongoing maintenance and synchronization with your other servers. 
 
-[Link](url) and ![Image](src)
-```
+The versatility lets you utilize diverse servers for different workloads. Whether you're analyzing data or running software development tools, you can dictate how much power you need for each server depending on your intended use, while scaling up and down your operations smoothly. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Another example of cloud solutions which are cheap, efficient and scalable to fit your needs comfortably are business VPNs. 
 
-### Jekyll Themes
+With a VPN, companies can set up a secure link for employees to connect to the network from remote locations. Unlike traditional proxy services, a business VPN [allows users to use the internet safely](https://www.perimeter81.com/next-gen-business-vpn), even if the website they're interacting with is not using HTTPS.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eliott-Mclauglin/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Why does this secure connection matter? The number of workers using their own unsecured device for work purposes has skyrocketed. According to research performed by [Clutch](https://www.aseonline.org/News/EverythingPeople-This-Week/ArtMID/543/ArticleID/1512/Use-of-Employee-Personal-Devices-for-Work), only 64% of employees are using an approved device for work, and only 40% use a device that's either monitored or cleared for security purposes. 
 
-### Support or Contact
+What are employees doing with their personal device? Nearly 90% of them are checking work-related emails which means they're connected to the company email server, and almost 70% are accessing shared company documents. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+When a company needs to scale, it isn't easy to source all the required hardware and create a safe network, especially when employees are connecting remotely. 
+
+Cloud-based software solutions such as a business VPN allow companies to create secured devices without having to purchase new units and implement costly security programs. 
+
+How do you improve your scalability as a tech company? It's simple. Limit your use of hardware and switch to cloud solutions where possible. 
