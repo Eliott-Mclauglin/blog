@@ -1,4 +1,37 @@
-##Pitfalls of hardware solutions for tech companies 
+# How to improve your scalability as a tech company ?
+
+The ability to effortlessly increase or decrease your capacity is a crucial concept for DevOps and Solutions Architects. 
+
+
+An ideal situation for tech companies is to have the ability to increase the load of every single piece of infrastructure or application on demand.
+
+Imagine that suddenly, a company is featured on the front page of the news. There's a good chance that their website will increase a substantial increase in traffic. 
+
+But can the current infrastructure handle the uptick? If it can't [scale up](https://www.techrepublic.com/article/achieving-scalability-for-your-web-infrastructure/) to handle the increased traffic, there's a chance the website will crash, or load too slowly causing a negative experience for users.
+
+In this article, we're going to explore the pitfalls of using hardware solutions, followed by the significant advantages tech companies can gain from cloud solutions. But before we do, let's look at two essential terms often heard when discussing scalability - vertical scaling and horizontal scaling. 
+
+## Vertical and horizontal scaling
+When discussing scaling up (and down), there are generally four areas that we're interested in. These are Disk I/O, Memory, Network I/O and CPU.  
+
+### Scaling vertically 
+Vertical scaling is considered by many to be the more straightforward and easier method of increasing resources. When scaling vertically, you're adding more power, such as more RAM, upping the number of processors, using more powerful CPUs, and using faster storage like SSD (Solid State Drives). 
+
+### Scaling horizontally 
+Instead of adding more resources to increase your power and speed, with horizontal scaling, you're growing your number of servers. 
+
+This allows you to spread your loads across multiple servers. However, scaling horizontally also means you're adding a great deal of complexity to your system as you need to perform all of the regular admin tasks, like updates, security, monitoring, syncing your apps, backups and data across an increased number of instances. 
+
+It's hard to declare one method is more beneficial than the other. Much depends on the company's requirements and circumstances when choosing how to scale. 
+
+Using the above example, if the increased load on the server is only temporary, then scaling horizontally will give you a long-term advantage, but there's a chance the extra capacity will be redundant if traffic falls again. Where-as for short term needs, vertical scaling is the preferred choice. 
+
+Many are arguing that the era of physical hardware is coming to an end. For tech companies to scale efficiently, they need to limit their usage of hardware and where-possible, use cloud alternatives. 
+
+The cloud removes many of the hurdles allowing you and other tech companies greater flexibility with scaling. Because cloud servers are virtualized, updating power configurations, or adding more servers becomes almost trivial. 
+
+
+## Pitfalls of hardware solutions for tech companies 
 
 Relying on physical hardware solutions doesn't mean it's impossible to scale, but it does create further challenges. When talking about servers, one of the most significant drawbacks is cost, which isn't just limited to the purchase or rental price. 
 
@@ -10,8 +43,8 @@ Often this kind of room is limited by the space available. What happens when you
 
 Looking at this example, it's no surprise that [94% of companies use the cloud](https://www.ibm.com/cloud/learn/cloud-computing) in some form.
 
-Benefits of virtual hardware for tech companies 
 
+## Benefits of virtual hardware for tech companies 
 
 When discussing the benefits of cloud/virtual servers for a tech company, there are many advantages to its physical hardware counterpart.
 
